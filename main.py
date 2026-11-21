@@ -2,10 +2,12 @@
 import os
 
 TEXT = (
-    "The kettle does not hurry the water. It hums, and waits, "
-    "and the steam rises when it is ready. Nothing here is late. "
-    "Read this the way light crosses a floor, slowly, asking nothing of the dust. "
-    "Whatever comes next, you can walk to it at the speed of morning."
+    "The Ferryman\n"
+    "The river is wide and the ferryman is in no hurry. "
+    "The rope runs through his hands, one hand, then the other. "
+    "Mist lifts off the water in pieces. "
+    "The far bank comes closer the way a name does once you stop reaching for it. "
+    "The boat has always known the way."
 )
 
 
