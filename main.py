@@ -2,12 +2,11 @@
 import os
 
 TEXT = (
-    "The Ferryman\n"
-    "The river is wide and the ferryman is in no hurry. "
-    "The rope runs through his hands, one hand, then the other. "
-    "Mist lifts off the water in pieces. "
-    "The far bank comes closer the way a name does once you stop reaching for it. "
-    "The boat has always known the way."
+    "The Lamplighter\n"
+    "At dusk the lamplighter walks the lane with his long pole, and does not run. "
+    "One lamp, a pause, the next. "
+    "Behind him the street fills with small warm rooms of light, and the moths arrive unasked. "
+    "He is never late. The dark has always waited for him."
 )
 
 
